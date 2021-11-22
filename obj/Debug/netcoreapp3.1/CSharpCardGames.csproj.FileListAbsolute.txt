@@ -1,0 +1,13 @@
+C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\bin\Debug\netcoreapp3.1\CSharpCardGames.exe
+C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\bin\Debug\netcoreapp3.1\CSharpCardGames.deps.json
+C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\bin\Debug\netcoreapp3.1\CSharpCardGames.runtimeconfig.json
+C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\bin\Debug\netcoreapp3.1\CSharpCardGames.runtimeconfig.dev.json
+C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\bin\Debug\netcoreapp3.1\CSharpCardGames.dll
+C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\bin\Debug\netcoreapp3.1\CSharpCardGames.pdb
+C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\obj\Debug\netcoreapp3.1\CSharpCardGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\obj\Debug\netcoreapp3.1\CSharpCardGames.AssemblyInfoInputs.cache
+C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\obj\Debug\netcoreapp3.1\CSharpCardGames.AssemblyInfo.cs
+C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\obj\Debug\netcoreapp3.1\CSharpCardGames.csproj.CoreCompileInputs.cache
+C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\obj\Debug\netcoreapp3.1\CSharpCardGames.dll
+C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\obj\Debug\netcoreapp3.1\CSharpCardGames.pdb
+C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\obj\Debug\netcoreapp3.1\CSharpCardGames.genruntimeconfig.cache
