@@ -80,10 +80,11 @@ namespace BlackJack
             }
         }
 
-        public void play()
+        public void Play()
         {
             this.SetNoOfCards(2);
             this.Initiate();
+            Console.WriteLine("BlackJack Play");
             userPlays(this.Players[0]);
             for (int counter = 1; counter < Players.Count; counter++)
             {

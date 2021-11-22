@@ -11,3 +11,4 @@ C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\obj\Debug\n
 C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\obj\Debug\netcoreapp3.1\CSharpCardGames.dll
 C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\obj\Debug\netcoreapp3.1\CSharpCardGames.pdb
 C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\obj\Debug\netcoreapp3.1\CSharpCardGames.genruntimeconfig.cache
+C:\Users\ds267f\Documents\github\DerekSomervilleUofG\CsharpCardGames\obj\Debug\netcoreapp3.1\CSharpCardGames.csproj.AssemblyReference.cache
